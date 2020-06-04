@@ -1,12 +1,13 @@
 #!/usr/bin/env python3
 
 #####################################################################################################
-# File: compareGenomes.py 
-# Executable: python compareGenomes.py 
-# Pupose: Program calculates the composition statistics of two genomes: GC content, codon usage, etc.
+# 
+#   Student: Carlos Arevalo(caeareva)
+#   Group: None
 #
-# Student: Carlos Arevalo(caeareva)
-# Group: None 
+#   File: compareGenomes.py 
+#   Executable: python compareGenomes.py 
+#   Pupose: Program calculates the composition statistics of two genomes: GC content, codon usage, etc.
 #
 #####################################################################################################
 '''
